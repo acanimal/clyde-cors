@@ -43,14 +43,11 @@ describe("cors", function() {
     server = http.createServer(middleware);
     server.listen(options.port);
 
-
-
-
     // Make request which expects a provider not found error
     request("http://localhost:8888")
       .get("/foo")
-      .expect(404)
-      .expect("Access-Control-Allow-Origin", "*", done);
+      .expect("Access-Control-Allow-Origin", "*")
+      .expect(404, done);
 
   });
 
