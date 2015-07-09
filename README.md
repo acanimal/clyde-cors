@@ -4,13 +4,13 @@ Filter to enable Cross Origin Resource Sharing (CORS) capabilities on Clyde API 
 
 > Implementation is based on [cors](https://github.com/expressjs/cors) module.
 
-<!-- MarkdownTOC (depth3)-->
+<!-- MarkdownTOC -->
 
 - [Configuration](#configuration)
-    - [Examples](#examples)
-        - [Enable all CORS requests](#enable-all-cors-requests)
-        - [Enable CORS requests only from `myserver` origin and on `provider`](#enable-cors-requests-only-from-myserver-origin-and-on-provider)
-    - [Notes](#notes)
+  - [Examples](#examples)
+    - [Enable all CORS requests](#enable-all-cors-requests)
+    - [Enable CORS requests only from `myserver` origin and on `provider`](#enable-cors-requests-only-from-myserver-origin-and-on-provider)
+  - [Notes](#notes)
 - [License](#license)
 
 <!-- /MarkdownTOC -->
