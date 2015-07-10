@@ -1,6 +1,6 @@
 {
   "author": "Antonio Santiago <asantiagop@gmail.com> (http://acuriousanimal.com/blog)",
-  "name": "clyde",
+  "name": "clyde-cors",
   "homepage": "https://github.com/acanimal/clyde-cors",
   "description": "CORS filter for Clyde API gateway.",
   "keywords": [
@@ -11,7 +11,7 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/acanimal/clyde-simple-access-log.git"
+    "url": "git://github.com/acanimal/clyde-cors.git"
   },
   "main": "./lib/index.js",
   "directories": {
