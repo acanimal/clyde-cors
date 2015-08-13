@@ -29,7 +29,7 @@
     "cors": "^2.7.1"
   },
   "devDependencies": {
-    "clyde": "git+https://github.com/acanimal/clyde.git",
+    "clydeio": "^0.2.2",
     "eslint": "^0.24.0",
     "mocha": "^2.2.5",
     "supertest": "^1.0.1"

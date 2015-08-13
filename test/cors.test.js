@@ -3,7 +3,7 @@
 var path = require("path"),
     request = require("supertest"),
     http = require("http"),
-    clyde = require("clyde");
+    clyde = require("clydeio");
 
 
 describe("cors", function() {
