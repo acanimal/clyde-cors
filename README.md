@@ -6,6 +6,7 @@ Filter to enable Cross Origin Resource Sharing (CORS) capabilities on Clyde API 
 
 <!-- MarkdownTOC -->
 
+- [Installation](#installation)
 - [Configuration](#configuration)
   - [Examples](#examples)
     - [Enable all CORS requests](#enable-all-cors-requests)
@@ -14,6 +15,10 @@ Filter to enable Cross Origin Resource Sharing (CORS) capabilities on Clyde API 
 - [License](#license)
 
 <!-- /MarkdownTOC -->
+
+## Installation
+
+`npm install clydeio-cors --save`
 
 ## Configuration
 
